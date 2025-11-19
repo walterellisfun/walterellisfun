@@ -1,5 +1,4 @@
-```md
-# Hi, I'm Walter :wave:
+# Hi, I'm Walter 👋
 
 Unity developer, tinkerer and teacher – building tools and small experiments to make game development smoother and more fun.
 
@@ -9,9 +8,9 @@ Unity developer, tinkerer and teacher – building tools and small experiments t
 - Enjoy creating **reusable utilities** that solve common problems once and for all.
 - Passionate about **learning by doing** and sharing that knowledge with others.
 
-## :toolbox: Featured projects
+## 🧰 Featured projects
 
-### :dart: ConeCast
+### 🎯 ConeCast
 
 A small but widely used **Unity3D extension** that adds a `ConeCastAll` method to the `Physics` class, similar to `Physics.SphereCastAll`, to find colliders within a cone‑shaped volume.
 Perfect for things like vision cones, field‑of‑view checks, and cone‑based abilities.
@@ -19,7 +18,7 @@ Perfect for things like vision cones, field‑of‑view checks, and cone‑based
 - Written in **C#** and distributed under the **MIT license**.
 - Used and referenced by other developers in tutorials, discussions and YouTube projects.
 
-### :test_tube: Experiments & learning repos
+### 🧪 Experiments & learning repos
 
 - `ml-scratch-2020` – machine learning experiments and learning projects.  
 - `first-order-model` – fork of a motion‑model project for image animation.
@@ -27,14 +26,13 @@ Perfect for things like vision cones, field‑of‑view checks, and cone‑based
 
 These repositories are mostly **playgrounds for learning**, prototyping and trying out new ideas.
 
-## :seedling: What I'm into
+## 🌱 What I'm into
 
 - **Game feel & gameplay tools** in Unity (aim‑assist, detection volumes, etc.). 
 - **AR & experimental interfaces**, especially web‑based AR from Unity.
 - **Sharing small utilities** that other devs can drop into their own projects.
 
-## :mailbox: Get in touch
+## 📫 Get in touch
 
 - GitHub: [@walterellisfun](https://github.com/walterellisfun)
 - Open to collaboration on **Unity tools, AR prototypes, and small game experiments**.
-```
